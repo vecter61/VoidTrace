@@ -1,0 +1,9 @@
+# requirements.txt
+python-whois
+tqdm
+requests
+colorama
+dnspython
+re
+time
+json
